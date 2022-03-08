@@ -4,7 +4,7 @@ This is a frontend application by using React.js
 
 # Description
 
-The app uses a public API to retrieve student data and shows a summary of each student's information. Adding tags to students and filtering by tags, as well as filtering by student first and last name, are all features that may be used to edit the data. The create-react-app toolchain was used to construct this project, which combines HTML, CSS, Javascript, and React.
+The app uses a public API to retrieve student data and shows a summary of each student's information. Features including filtering by student first and last name as well as adding tags to students and filtering by tags. The create-react-app toolchain was used to construct this project, which combines HTML, CSS, Javascript, and React.
 
 # Instructions
 
