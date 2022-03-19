@@ -19,4 +19,5 @@ The app should be running on `http://localhost:3000` or whichever PORT number yo
   
 Check your react-script dependency is avaliable or not in package.json.
 If not available then add it manually via:
+
 ```npm install react-scripts --save```
